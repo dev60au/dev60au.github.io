@@ -1,18 +1,18 @@
-title: Webjeda
-description: WebJeda is a web designing company based in Bangalore. Designing beautiful, responsive and functional websites is our passion.
-url: https://webjeda.com
+title: Dev { 60 } IT  Solutions
+description: Dev 60 IT Solutions is an IT services consulting company based in Brisbane. Innovation via Automation and Cloud Technologies is our passion.
+url: https://dev60au.github.io
 logo: /images/apple-touch-icon-ipad-retina-152x152.png
 
 contact: '/contact/#wj-contact'
 learn-more: '/about/#wj-features'
-github: https://github.com/sharu725
+github: https://github.com/Dev60au
 youtube: https://www.youtube.com/webjeda
 
 twitter:
-  username: webjeda
+  username: Dev60Au
 
 social:
-  name: Webjeda
+  name: Dev60Au
   links:
     - https://twitter.com/webjeda
     - https://facebook.com/webjeda
