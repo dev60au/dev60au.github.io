@@ -24,8 +24,8 @@ services:
     image: icon-chat
 
 about:
-    - title: Design & Development
-      description: "<p>We design responsive, functional and superfast websites.</p><p>Web designing is moving from desktop to smartphones. We keep User Experience in mind while creating websites. A website should load quick and shoulod be accessible even on a small view-port and slow internet connection.</p><p>Modern website are all about minimalism. We keep what is necessary and leave everything else, making a website content oriented.</p>"
+    - title: Office 365 Migration
+      description: "<p>1) End to End Microsoft 365 Migrations for small, medium and large enterprises across all the offerings from Microsoft like ExchangeOnline, SharePoint, Teams etc.<br>2) Microsoft 365 maintenance and audit across all the offerings .</p>"
       icon: icon-pencil
 
     - title: Search Engine
