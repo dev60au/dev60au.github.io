@@ -1,12 +1,12 @@
 title: Dev { 60 } IT  Solutions
-description: Dev 60 IT Solutions is an IT services consulting company based in Brisbane. Innovation via Automation and Cloud Technologies is our passion.
+description: Dev 60 IT Solutions.
 url: https://dev60au.github.io
-logo: /images/apple-touch-icon-ipad-retina-152x152.png
+#logo: /images/apple-touch-icon-ipad-retina-152x152.png
 
 contact: '/contact/#wj-contact'
 learn-more: '/about/#wj-features'
 github: https://github.com/Dev60au
-youtube: https://www.youtube.com/webjeda
+#youtube: https://www.youtube.com/webjeda
 
 twitter:
   username: Dev60Au
@@ -14,16 +14,13 @@ twitter:
 social:
   name: Dev60Au
   links:
-    - https://twitter.com/webjeda
-    - https://facebook.com/webjeda
-    - https://plus.google.com/+WebJeda
-    - https://github.com/sharu725
+    - https://twitter.com/rana_15
 
 
-facebook:
- app_id: 549480635219583
- publisher: webjeda
- admins: sharu725
+#facebook:
+ #app_id: 549480635219583
+ #publisher: webjeda
+ #admins: sharu725
 
 include: ["_pages"]
 exclude:
@@ -46,11 +43,11 @@ compress_html:
 sass:
  style: compressed
 
-review:
-  link: http://search.google.com/local/writereview?placeid=ChIJx113w8QUuzsR_3IiWBPrucE
-  short-link: https://goo.gl/fAcxe9
+#review:
+ # link: http://search.google.com/local/writereview?placeid=ChIJx113w8QUuzsR_3IiWBPrucE
+  #short-link: https://goo.gl/fAcxe9
 
-review-link: 'https://www.google.com/search?q=Webjeda#lkt=LocalPoiReviews&lrd=0x3bbb14c4c3775dc7:0xc1b9eb13582272ff,3,5,,&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:13959446988327121663,rc_q:Webjeda,ru_q:Webjeda'
+#review-link: 'https://www.google.com/search?q=Webjeda#lkt=LocalPoiReviews&lrd=0x3bbb14c4c3775dc7:0xc1b9eb13582272ff,3,5,,&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:13959446988327121663,rc_q:Webjeda,ru_q:Webjeda'
 
 
 plugins:
