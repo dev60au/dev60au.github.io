@@ -35,31 +35,30 @@ about:
     - title: Azure
       description: "<p>
                     1) We are experts in planning and deployments of Azure Hybrid solutions ranging from extending your existing Network to Azure, App Service, Storage, Hybrid etc.<br>
-                    2) We can help you deploy your datacenter connectivity and branch offices using Azure Networking Offering like Azure Wan, Vnets with Gateway, and Express Routes.<br>
+                    2) We can help you extend your datacenter and branch offices using Azure which is geographically fault tolerant.<br>
                     3) Azure helps you with various offerings which will suit your business needs and you pay only what you use. you can scale up and scale down as needed.</p>"
       icon: icon-search
 
     - title: Business Automation
       description: "<p>
-                    1) Azure has tons of offerings for Automating small tasks to complex business process using Azure Functions, Web jobs, Enterprise Logic Apps, Power Platform.<br>
+                    1) Azure has tons of offerings for automating small tasks to complex business process using Azure Functions, Web jobs, Enterprise Logic Apps, Power Platform.<br>
                     2) One of the best things about Azure is that it also supports various connectors and triggers for your automation, enabling you to automate even the most grannular process<br>
                     3) You can integrate automation with options to select various platform which can scale as required without having to maintain the infrastructure</p>"
       icon: icon-linegraph
 
     - title: Security and Compliance
       description: "<p>
-                    1) We are experts in planning and deployments of Azure Hybrid solutions ranging from extending your existing Network to Azure, App Service, Storage, Hybrid etc.<br>
-                    2) We can help you deploy your datacenter connectivity and branch offices using Azure Networking Offering like Azure Wan, Vnets with Gateway, and Express Routes.<br>
-                    3) Azure helps you with various offerings which will suit your business needs and you pay only what you use. you can scale up and scale down as needed.</p>"
+                    1) Azure has multiple offerings to secure your workloads, whether its your clients or Servers running in Azure, you can smanage and secure them from one place<br>
+                    2) Azure and office 365 will enable you to define your custom Security policies as defined by your business.<br>
+                    3) You can have custom alerts configured or can use the default alerts and templates to ensure your workloads are always secure.</p>"
       icon: icon-recycle
 
     - title: Business Analytics
       description: "<p>
-                    1) We are experts in planning and deployments of Azure Hybrid solutions ranging from extending your existing Network to Azure, App Service, Storage, Hybrid etc.<br>
-                    2) We can help you deploy your datacenter connectivity and branch offices using Azure Networking Offering like Azure Wan, Vnets with Gateway, and Express Routes.<br>
-                    3) Azure helps you with various offerings which will suit your business needs and you pay only what you use. you can scale up and scale down as needed.</p>"
+                    1) Azure and office 365 now ohas many offerings for Data analytics and data transformation.<br>
+                    2) Offierings like Azure analytics, Power Bi Premium, Data lake, Azure Data factory etc can help you combine data from different sources and show you trends and report with ease.<br></p>"
       icon: icon-hotairballoon
 
     - title: IT Support
-      description: "<p>We provide 24x7 support to our customers for their IT server - Netwok infrastructure and Cloud Offerings at affordable rates.</p><p>Customer satisfaction is something we take gravely. We believe that there is no traffic jams along the extra mile.</p>"
+      description: "<p>We provide 24x7 support to our customers for their IT server - infrastructure and Cloud Offerings at affordable rates.</p><p>Customer satisfaction is something we take gravely. We believe that there is no traffic jams along the extra mile.</p>"
       icon: icon-chat
