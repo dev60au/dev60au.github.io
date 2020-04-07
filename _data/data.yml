@@ -25,11 +25,15 @@ services:
 
 about:
     - title: Office 365 Migration
-      description: "<p>1) End to End Microsoft 365 Migrations for small, medium and large enterprises across all the offerings from Microsoft like ExchangeOnline, SharePoint, Teams etc.<br>2) Microsoft 365 maintenance and audit across all the offerings .</p>"
+      description: "<p>
+                    1) End to End Microsoft 365 Migrations for small, medium and large enterprises across all the offerings from Microsoft like ExchangeOnline, SharePoint, Teams etc.<br>
+                    2) Microsoft 365 maintenance and audit across all the offerings .
+                    3) Support for single or multi tennant hybrid Office 365 setup </p>
       icon: icon-pencil
 
     - title: Azure
-      description: "<p>We optimize your website for search engines.</p><p>Organic traffic is the best kind of traffic you can get. SEO optimization involves a lot of advanced changes like SSL, AMP pages, Schema.</p><p>It is a constant processs which changes with time. As the rules change we will adopt to it provide the best for our customers.</p>"
+      description: "<p>
+                    1) We optimize your website for search engines.</p><p>Organic traffic is the best kind of traffic you can get. SEO optimization involves a lot of advanced changes like SSL, AMP pages, Schema.</p><p>It is a constant processs which changes with time. As the rules change we will adopt to it provide the best for our customers.</p>"
       icon: icon-search
 
     - title: Business Automation
