@@ -27,8 +27,9 @@ about:
     - title: Office 365 Migration
       description: "<p>
                     1) End to End Microsoft 365 Migrations for small, medium and large enterprises across all the offerings from Microsoft like ExchangeOnline, SharePoint, Teams etc.<br>
-                    2) Microsoft 365 maintenance and audit across all the offerings .
-                    3) Support for single or multi tennant hybrid Office 365 setup </p>
+                    2) Microsoft 365 maintenance and audit across all the offerings <br>.
+                    3) Support for single or multi tennant hybrid Office 365 setup
+                    </p>
       icon: icon-pencil
 
     - title: Azure
