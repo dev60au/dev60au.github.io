@@ -19,7 +19,7 @@ services:
     description: We provide BI solutions on Power Bi.
     image: icon-hotairballoon
 
-  - title: Support
+  - title: IT Support
     description: We provide 24x7 support to our customers.
     image: icon-chat
 
@@ -28,22 +28,22 @@ about:
       description: "<p>1) End to End Microsoft 365 Migrations for small, medium and large enterprises across all the offerings from Microsoft like ExchangeOnline, SharePoint, Teams etc.<br>2) Microsoft 365 maintenance and audit across all the offerings .</p>"
       icon: icon-pencil
 
-    - title: Search Engine
+    - title: Azure
       description: "<p>We optimize your website for search engines.</p><p>Organic traffic is the best kind of traffic you can get. SEO optimization involves a lot of advanced changes like SSL, AMP pages, Schema.</p><p>It is a constant processs which changes with time. As the rules change we will adopt to it provide the best for our customers.</p>"
       icon: icon-search
 
-    - title: Marketing
+    - title: Business Automation
       description: "<p>We perform digital marketing to reach more audience.</p><p>We help you reach a greater audience through Digital Marketing. It involoves Social Media Marketing, Email Marketing, Search Engine Marketing etc.</p><p>Digital Marketing helps to reach targeted customers in a short period of time.</p>"
       icon: icon-linegraph
 
-    - title: WordPress to Static
+    - title: Security and Compliance
       description: "<p>We convert your WordPress site to a Static Site.</p><p>Static Sites are fast, user friendly and rank better on search engines. Static Sites will not use any database and hence making the website highly secure when compared to WordPress.</p><p>We might loose some features but we believe that static is the new dynamic.</p>"
       icon: icon-recycle
 
-    - title: Build Themes
+    - title: Business Analytics
       description: "<p>We create clean, minimal and w3c compliant themes.</p><p>All out themes are coded clean, w3c compliant and highly customizable. We give out our themes for free so that users can have an inside look at our design and coding skills.</p>"
       icon: icon-hotairballoon
 
-    - title: Support
-      description: "<p>We provide 24x7 support to our customers.</p><p>Customer satisfaction is something we take gravely. We believe that there is no traffic jams along the extra mile.</p>"
+    - title: IT Support
+      description: "<p>We provide 24x7 support to our customers for their IT server - Netwok infrastructure and Cloud Offerings.</p><p>Customer satisfaction is something we take gravely. We believe that there is no traffic jams along the extra mile.</p>"
       icon: icon-chat
